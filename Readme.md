@@ -1,3 +1,22 @@
+## Lab 3
+
+### App Description
+This is a fully functional flashcard app that allows you to make multiple flashcards, move between each flashcard, and load your saved flashcards from previous study session
+
+### App Walk-though
+
+<img src="http://g.recordit.co/zAbk0Ai5kb.gif" width=200><br>
+
+## Required
+- [x] User can browse through multiple flashcards
+- [x] User can re-open the app and see previously created flashcards
+- [x] Push code to GitHub
+## Optional
+- [ ] User can delete a flashcard
+- [ ] User can edit existing flashcard
+- [ ] User can store multiple choice questions
+
+
 ## Lab 2
 
 ### App Description
